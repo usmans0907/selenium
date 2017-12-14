@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [SuiteTabs]">
+  <test name="TestTabs(failed)">
+    <groups>
+      <run>
+        <include name="user"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="assignment.SwitchingTabsPOM">
+        <methods>
+          <include name="userAdd"/>
+        </methods>
+      </class> <!-- assignment.SwitchingTabsPOM -->
+    </classes>
+  </test> <!-- TestTabs(failed) -->
+</suite> <!-- Failed suite [SuiteTabs] -->

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+  
+  <groups>
+  			<define name="all">
+  				<include name="CAT"></include>
+  				<include name="DOG"></include>
+  			</define>
+  			
+  			<define name="onlyCAT">
+  				<include name="CAT"></include>
+  			</define>
+  			
+  			<define name="onlyDOG">
+  				<include name="DOG"></include>
+  			</define>
+  			
+  			<run>
+  				<include name="onlyDOG"></include>
+  			</run>
+  </groups>
+  
+    <classes>
+      <class name="annotations.GroupDemo"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

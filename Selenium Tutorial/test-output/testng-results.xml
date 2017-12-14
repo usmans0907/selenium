@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="66693" started-at="2017-12-14T20:20:14Z" finished-at="2017-12-14T20:21:21Z">
+    <groups>
+    </groups>
+    <test name="TestFirefox" duration-ms="49035" started-at="2017-12-14T20:20:14Z" finished-at="2017-12-14T20:21:03Z">
+      <class name="annotations.BrowserParameter">
+        <test-method status="PASS" signature="verifyTitle(java.lang.String)[pri:0, instance:annotations.BrowserParameter@27f723]" name="verifyTitle" duration-ms="48978" started-at="2017-12-14T14:20:14Z" finished-at="2017-12-14T14:21:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+      </class> <!-- annotations.BrowserParameter -->
+    </test> <!-- TestFirefox -->
+    <test name="TestChrome" duration-ms="17483" started-at="2017-12-14T20:21:04Z" finished-at="2017-12-14T20:21:21Z">
+      <class name="annotations.BrowserParameter">
+        <test-method status="PASS" signature="verifyTitle(java.lang.String)[pri:0, instance:annotations.BrowserParameter@2db7a79b]" name="verifyTitle" duration-ms="17472" started-at="2017-12-14T14:21:04Z" finished-at="2017-12-14T14:21:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+      </class> <!-- annotations.BrowserParameter -->
+    </test> <!-- TestChrome -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/client-combined-3.5.0-nodeps.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/cssparser-0.9.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/guava-22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/htmlunit-core-js-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/htmlunit-driver-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/jetty-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/jetty-http-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/jetty-io-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/jetty-util-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/neko-htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/websocket-api-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/websocket-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/websocket-common-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Selenium Jar Files/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Apache poi jars/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Apache poi jars/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Apache poi jars/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Apache poi jars/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Apache poi jars/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Apache poi jars/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Apache poi jars/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Apache poi jars/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Apache poi jars/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Apache poi jars/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Apache poi jars/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Apache poi jars/ooxml-lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usman/eclipse-workspace/Apache poi jars/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
